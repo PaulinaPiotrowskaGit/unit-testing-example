@@ -1,4 +1,4 @@
-export class NumbersValidator {
+class NumbersValidator {
   /**
    * @param {Number} number number to check
    * @return {Boolean} true if element is even
@@ -48,3 +48,4 @@ export class NumbersValidator {
 }
 
 module.exports = NumbersValidator;
+
