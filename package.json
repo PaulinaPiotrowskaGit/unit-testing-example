@@ -1,6 +1,5 @@
 {
   "name": "unit-testing-example",
-  "type": "module",
   "version": "1.0.0",
   "description": "unit testing example",
   "main": "index.js",

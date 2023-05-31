@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const { describe, beforeEach, it } = require('mocha');
-const NumbersValidator = require('../app/numbers-validator');
+const NumbersValidator = require('../app/numbers-validator.js');
 
 describe('isNumberEven', function () {
   let validator;
